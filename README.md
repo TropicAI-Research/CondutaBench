@@ -155,11 +155,4 @@ Provider interfaces follow the official [OpenAI Responses guide](https://develop
 
 ## Citation
 
-```bibtex
-@misc{laitz2026condutabench,
-  title = {CondutaBench: From Clinical Guidelines to Agentic Evaluation in Brazilian Portuguese},
-  author = {Laitz, Thiago and Mazza, Flávia and Bonás, Mariana Kerche and Bonás, Giovana Kerche and Santos, João Guilherme Alves and Almeida, Thales Sales and Nogueira, Rodrigo and Pedrini, Helio},
-  year = {2026},
-  url = {https://github.com/TropicAI-Research/CondutaBench}
-}
-```
+The paper will be publicly available soon. Citation details will be updated upon publication.
